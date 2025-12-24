@@ -1,0 +1,7 @@
+{
+  "ankara": { "plate": 6, "population": 5600000, "area": 2513 },
+  "istanbul": { "plate": 34, "population": 15500000, "area": 5461 },
+  "izmir": { "plate": 35, "population": 4500000, "area": 1181 },
+  "bursa": { "plate": 16, "population": 3050000, "area": 1090 },
+  "kocaeli": { "plate": 41, "population": 1850000, "area": 3399 }
+}
